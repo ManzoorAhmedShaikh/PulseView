@@ -1,0 +1,6 @@
+customtkinter>=5.2.0
+psutil>=5.9.0
+nvidia-ml-py>=12.535.0
+
+# Optional (AMD legacy radeon driver — live VRAM %):
+#   sudo apt install radeontop
