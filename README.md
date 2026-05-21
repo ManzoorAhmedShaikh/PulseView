@@ -25,7 +25,7 @@ A lightweight desktop app that shows **live CPU, RAM, VRAM, and disk usage** in 
 ## Setup
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/ManzoorAhmedShaikh/PulseView
 cd n2
 
 python3 -m venv .venv
