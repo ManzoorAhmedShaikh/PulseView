@@ -1,4 +1,4 @@
-# System Monitor
+# PulseView - System Monitor
 
 A lightweight desktop app that shows **live CPU, RAM, VRAM, and disk usage** in a single window. Built with Python and [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) for a clean, modern UI with system / dark / light themes.
 
